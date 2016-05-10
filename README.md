@@ -110,6 +110,7 @@ Pending Deals dashlet gives users a heads up on all the pending deals. Pending D
 4. In track dropdown, user can select from the available deal tracks
 5. In milestone dropdown, user can select from the available milestones of selected track
 6. Save the selected setting
+
 ##### **Deals by Milestone:**
 Deals by Milestone dashlet shows a pie-chart of deals grouped by milestone. Deals by Milestone dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
