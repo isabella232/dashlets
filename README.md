@@ -41,7 +41,7 @@ Email opens dashlet shows the number and percentage of opened emails among the s
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](images/figg4.jpg "Figure 1-1")
+![Figure 1-1](images/figg4.png "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
@@ -63,7 +63,7 @@ Tag graph dashlet shows how the selected tags are changed over selected time per
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](images/figg6.jpg "Figure 1-1")
+![Figure 1-1](images/figg6.png "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
@@ -90,7 +90,7 @@ Deal dashlets show information about deals. Deal dashlets include pending deals,
 ##### **Pending Deals:**
 Pending Deals dashlet gives users a heads up on all the pending deals. Pending Deals dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
-![Figure 1-1](images/figg9.jpg "Figure 1-1")
+![Figure 1-1](images/figg9.png "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
