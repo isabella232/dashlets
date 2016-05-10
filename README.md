@@ -19,7 +19,7 @@ Contact dashlets show information about contacts. Contact dashlets include conta
 ##### **Contact List**
 Contact List dashlet shows a list of 50 recently added contacts customizable by filters. Contact List dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
-![Figure 1-1](Desktop/images/figg2.jpg "Figure 1-1")
+![Figure 1-1](images/figg2.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
