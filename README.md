@@ -136,6 +136,7 @@ This dashlet has options to print and download. Download options include downloa
 4. In track dropdown, user can select from the available deal tracks
 5. In milestone dropdown, user can select from the available milestones of selected track
 6. Save the selected setting
+
 ##### **Deals Funnel:**
 Deals Funnel dashlet shows a funnel report of total deals value in each milestone. Deals Funnel dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
@@ -152,17 +153,18 @@ This dashlet has options to print and download. Download options include downloa
 
  ![Figure 1-1](images/figg17.jpg "Figure 1-1")
  
-  ![Figure 1-1](images/figg18.jpg "Figure 1-1")
+ ![Figure 1-1](images/figg18.jpg "Figure 1-1")
   
-   ![Figure 1-1](images/figg19.jpg "Figure 1-1")
+  ![Figure 1-1](images/figg19.jpg "Figure 1-1")
  
  ###### **Settings:**
- 1. Settings include track, deals and split by
+1. Settings include track, deals and split by
 2. Click the settings icon on dashlet
 3. In track dropdown, user can select from available deal tracks
 4. In deals dropdown, user can select from all deals or my deals
 5. In split by dropdown, user can select from revenue or count
 6. Save the selected setting
+
  ##### **Revenue Graph:**
 Revenue Graph dashlet shows forecasted revenue graph based on user's deals. Revenue Graph dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
@@ -378,6 +380,7 @@ This dashlet has options to print and download. Download options include downloa
 2. Click the settings icon on dashlet
 3. In duration dropdown, user can select from today, yesterday, this week, last 7 days, this month, last 30 days
 4. Save the selected setting
+
  ##### **Activity Dashlets:**
 Activity dashlets show information about activities performed by users. Activity dashlets include activity overview, leaderboard, calls, user activities and campaign stats.
 
