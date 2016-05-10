@@ -14,7 +14,7 @@ Let’s look at each of the dashlet categories.
 ##### **Contacts Dashlets**
 Contact dashlets show information about contacts. Contact dashlets include contacts list, emails open and tag graph.
 
-![Figure 1-1](Desktop/images/figg1.jpg "Figure 1-1")
+![Figure 1-1](images/figg1.jpg "Figure 1-1")
 
 ##### **Contact List**
 Contact List dashlet shows a list of 50 recently added contacts customizable by filters. Contact List dashlet can be added to user dashboards or other pages like contacts, deals and so on.
