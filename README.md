@@ -118,7 +118,7 @@ Deals by milestone dashlet shows the percentage of deals in each of the mileston
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](images/figg13.jpg "Figure 1-1")
+![Figure 1-1](images/figg13.png "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
@@ -144,18 +144,18 @@ Deals funnel dashlet shows the number and value of deals against each of the dea
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](images/figg16.jpg "Figure 1-1")
+![Figure 1-1](images/figg16.png "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Deals Funnel” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
- ![Figure 1-1](images/figg17.jpg "Figure 1-1")
+ ![Figure 1-1](images/figg17.png "Figure 1-1")
  
- ![Figure 1-1](images/figg18.jpg "Figure 1-1")
+ ![Figure 1-1](images/figg18.png "Figure 1-1")
   
-  ![Figure 1-1](images/figg19.jpg "Figure 1-1")
+  ![Figure 1-1](images/figg19.png "Figure 1-1")
  
  ###### **Settings:**
 1. Settings include track, deals and split by
@@ -172,16 +172,16 @@ Revenue Graph dashlet shows forecasted revenue graph based on user's deals. Reve
 
   This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
- ![Figure 1-1](images/figg20.jpg "Figure 1-1")
+ ![Figure 1-1](images/figg20.png "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Revenue Graph” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](images/figg21.jpg "Figure 1-1")
+![Figure 1-1](images/figg21.png "Figure 1-1")
 
-![Figure 1-1](images/figg22.jpg "Figure 1-1")
+![Figure 1-1](images/figg22.png "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include duration and track
