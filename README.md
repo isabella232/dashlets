@@ -14,7 +14,7 @@ Let’s look at each of the dashlet categories.
 ##### **Contacts Dashlets**
 Contact dashlets show information about contacts. Contact dashlets include contacts list, emails open and tag graph.
 
-![Figure 1-1](images/figg1.png "Figure 1-1")
+![Figure 1-1](images/figg1.jpg "Figure 1-1")
 
 ##### **Contact List**
 Contact List dashlet shows a list of 50 recently added contacts customizable by filters. Contact List dashlet can be added to user dashboards or other pages like contacts, deals and so on.
@@ -26,7 +26,7 @@ Contact List dashlet shows a list of 50 recently added contacts customizable by 
 2. Select and Add “Contact List” dashlet under Contacts category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](images/figg3.png "Figure 1-1")
+![Figure 1-1](images/figg3.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include filter 
@@ -48,7 +48,7 @@ This dashlet has options to print and download. Download options include downloa
 2. Select and Add “Email Opens” dashlet under Contacts category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](images/figg5.png "Figure 1-1")
+![Figure 1-1](images/figg5.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include duration
@@ -70,9 +70,9 @@ This dashlet has options to print and download. Download options include downloa
 2. Select and Add “Tag Graph” dashlet under Contacts category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](images/figg7.png "Figure 1-1")
+![Figure 1-1](images/figg7.jpg "Figure 1-1")
 
-![Figure 1-1](images/figg7.1.png "Figure 1-1")
+![Figure 1-1](images/figg7.1.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include tags, frequency and duration 
@@ -85,7 +85,7 @@ This dashlet has options to print and download. Download options include downloa
 ##### **Deals Dashlets:**
 Deal dashlets show information about deals. Deal dashlets include pending deals, deals by milestone, deals funnel, revenue graph, deal goals, incoming deals and lost deal analysis.
 
-![Figure 1-1](images/figg8.png "Figure 1-1")
+![Figure 1-1](images/figg8.jpg "Figure 1-1")
 
 ##### **Pending Deals:**
 Pending Deals dashlet gives users a heads up on all the pending deals. Pending Deals dashlet can be added to user dashboards or other pages like contacts, deals and so on.
@@ -97,11 +97,11 @@ Pending Deals dashlet gives users a heads up on all the pending deals. Pending D
 2. Select and Add “Pending Deals” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](images/figg10.png "Figure 1-1")
+![Figure 1-1](images/figg10.jpg "Figure 1-1")
 
-![Figure 1-1](images/figg11.png "Figure 1-1")
+![Figure 1-1](images/figg11.jpg "Figure 1-1")
 
-![Figure 1-1](images/figg12.png "Figure 1-1")
+![Figure 1-1](images/figg12.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include deals, track and milestone 
@@ -125,9 +125,9 @@ This dashlet has options to print and download. Download options include downloa
 2. Select and Add “Deals by Milestone” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](images/figg14.png "Figure 1-1")
+![Figure 1-1](images/figg14.jpg "Figure 1-1")
 
-![Figure 1-1](images/figg15.png "Figure 1-1")
+![Figure 1-1](images/figg15.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include deals, track and milestone 
@@ -275,7 +275,7 @@ This dashlet has options to print and download. Download options include downloa
 ##### **Calendar Dashlets:**
 Calendar dashlets show information about events and tasks. Calendar dashlets include events, tasks, task report, mini calendar and task completion time deviation.
 
-![Figure 1-1](images/figg35.png "Figure 1-1")
+![Figure 1-1](images/figg35.jpg "Figure 1-1")
 
 ##### **Events:**
 Events dashlet shows a quick view of events from user’s calendar. Events dashlet can be added to user dashboards or other pages like contacts, deals and so on.
