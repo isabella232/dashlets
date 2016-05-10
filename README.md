@@ -168,9 +168,9 @@ This dashlet has options to print and download. Download options include downloa
  ##### **Revenue Graph:**
 Revenue Graph dashlet shows forecasted revenue graph based on user's deals. Revenue Graph dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
-Revenue graph dashlet shows the information on total revenue and pipeline revenue. All the information is shown for the selected time duration.
+  Revenue graph dashlet shows the information on total revenue and pipeline revenue. All the information is shown for the selected time duration.
 
-This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
+  This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
  ![Figure 1-1](images/figg20.jpg "Figure 1-1")
 
