@@ -384,7 +384,7 @@ This dashlet has options to print and download. Download options include downloa
  ##### **Activity Dashlets:**
 Activity dashlets show information about activities performed by users. Activity dashlets include activity overview, leaderboard, calls, user activities and campaign stats.
 
-![Figure 1-1](images/figg48.png "Figure 1-1")
+![Figure 1-1](images/figg48.jpg "Figure 1-1")
 
  ##### **Activity Overview:**
 Activity Overview dashlet shows detailed list of activities done by the team members. Activity Overview dashlet can be added to user dashboards or other pages like contacts, deals and so on.
@@ -490,7 +490,7 @@ Campaign stats dashlet shows information on number of emails sent, number of ema
 ##### **RSS Feed Dashlets:**
 RSS feed dashlets show information from various feed providers like Agile CRM blog. RSS feed dashlets include Agile CRM Blog.
 
-![Figure 1-1](images/figg60.png "Figure 1-1")
+![Figure 1-1](images/figg60.jpg "Figure 1-1")
 
 ##### **Agile CRM Blog:**
 Agile CRM Blog dashlet shows a feed of what’s happening at Agile CRM’s end including updates on new features. Agile CRM Blog dashlet can be added to user dashboards or other pages like contacts, deals and so on.
@@ -505,7 +505,7 @@ Agile CRM Blog dashlet shows a feed of what’s happening at Agile CRM’s end i
 ##### **Account Info Dashlets:**
 Account Info dashlets show information about user’s account. Account Info dashlets include Account Details.
 
-![Figure 1-1](images/figg62.png "Figure 1-1")
+![Figure 1-1](images/figg62.jpg "Figure 1-1")
 
 ##### **Account Details:**
 Account Details dashlet shows current plan information, number of users and more. Account Details dashlet can be added to user dashboards or other pages like contacts, deals and so on.
