@@ -26,7 +26,7 @@ Contact List dashlet shows a list of 50 recently added contacts customizable by 
 2. Select and Add “Contact List” dashlet under Contacts category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg3.jpg "Figure 1-1")
+![Figure 1-1](images/figg3.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include filter 
@@ -41,14 +41,14 @@ Email opens dashlet shows the number and percentage of opened emails among the s
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](Desktop/images/figg4.jpg "Figure 1-1")
+![Figure 1-1](images/figg4.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Email Opens” dashlet under Contacts category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg5.jpg "Figure 1-1")
+![Figure 1-1](images/figg5.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include duration
@@ -63,16 +63,16 @@ Tag graph dashlet shows how the selected tags are changed over selected time per
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](Desktop/images/figg6.jpg "Figure 1-1")
+![Figure 1-1](images/figg6.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Tag Graph” dashlet under Contacts category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg7.jpg "Figure 1-1")
+![Figure 1-1](images/figg7.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg7.1.jpg "Figure 1-1")
+![Figure 1-1](images/figg7.1.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include tags, frequency and duration 
@@ -85,23 +85,23 @@ This dashlet has options to print and download. Download options include downloa
 ##### **Deals Dashlets:**
 Deal dashlets show information about deals. Deal dashlets include pending deals, deals by milestone, deals funnel, revenue graph, deal goals, incoming deals and lost deal analysis.
 
-![Figure 1-1](Desktop/images/figg8.jpg "Figure 1-1")
+![Figure 1-1](images/figg8.jpg "Figure 1-1")
 
 ##### **Pending Deals:**
 Pending Deals dashlet gives users a heads up on all the pending deals. Pending Deals dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
-![Figure 1-1](Desktop/images/figg9.jpg "Figure 1-1")
+![Figure 1-1](images/figg9.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Pending Deals” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg10.jpg "Figure 1-1")
+![Figure 1-1](images/figg10.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg11.jpg "Figure 1-1")
+![Figure 1-1](images/figg11.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg12.jpg "Figure 1-1")
+![Figure 1-1](images/figg12.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include deals, track and milestone 
@@ -117,16 +117,16 @@ Deals by milestone dashlet shows the percentage of deals in each of the mileston
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](Desktop/images/figg13.jpg "Figure 1-1")
+![Figure 1-1](images/figg13.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Deals by Milestone” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg14.jpg "Figure 1-1")
+![Figure 1-1](images/figg14.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg15.jpg "Figure 1-1")
+![Figure 1-1](images/figg15.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include deals, track and milestone 
@@ -142,18 +142,18 @@ Deals funnel dashlet shows the number and value of deals against each of the dea
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](Desktop/images/figg16.jpg "Figure 1-1")
+![Figure 1-1](images/figg16.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Deals Funnel” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
- ![Figure 1-1](Desktop/images/figg17.jpg "Figure 1-1")
+ ![Figure 1-1](images/figg17.jpg "Figure 1-1")
  
-  ![Figure 1-1](Desktop/images/figg18.jpg "Figure 1-1")
+  ![Figure 1-1](images/figg18.jpg "Figure 1-1")
   
-   ![Figure 1-1](Desktop/images/figg19.jpg "Figure 1-1")
+   ![Figure 1-1](images/figg19.jpg "Figure 1-1")
  
  ###### **Settings:**
  1. Settings include track, deals and split by
@@ -169,16 +169,16 @@ Revenue graph dashlet shows the information on total revenue and pipeline revenu
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
- ![Figure 1-1](Desktop/images/figg20.jpg "Figure 1-1")
+ ![Figure 1-1](images/figg20.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Revenue Graph” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg21.jpg "Figure 1-1")
+![Figure 1-1](images/figg21.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg22.jpg "Figure 1-1")
+![Figure 1-1](images/figg22.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include duration and track
@@ -192,14 +192,14 @@ Deal Goals dashlet shows how much sales target has been achieved. Deal Goals das
 
 Deal goals dashlet shows the information on number and percentage of deals won against target along with number and percentage of revenue generated against target. All the information is shown for the selected time duration.
 
-![Figure 1-1](Desktop/images/figg23.jpg "Figure 1-1")
+![Figure 1-1](images/figg23.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Deal Goals” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg24.jpg "Figure 1-1")
+![Figure 1-1](images/figg24.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include duration
@@ -214,20 +214,20 @@ Incoming deals dashlet shows information on number of incoming deals split by de
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](Desktop/images/figg25.jpg "Figure 1-1")
+![Figure 1-1](images/figg25.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Incoming Deals” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg26.jpg "Figure 1-1")
+![Figure 1-1](images/figg26.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg27.jpg "Figure 1-1")
+![Figure 1-1](images/figg27.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg28.jpg "Figure 1-1")
+![Figure 1-1](images/figg28.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg29.jpg "Figure 1-1")
+![Figure 1-1](images/figg29.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include split by, owner, frequency and duration
@@ -245,20 +245,20 @@ Lost deal analysis dashlet shows the percentage of deals lost because of the sel
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](Desktop/images/figg30.jpg "Figure 1-1")
+![Figure 1-1](images/figg30.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Lost Deal Analysis” dashlet under Deals category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg31.jpg "Figure 1-1")
+![Figure 1-1](images/figg31.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg32.jpg "Figure 1-1")
+![Figure 1-1](images/figg32.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg33.jpg "Figure 1-1")
+![Figure 1-1](images/figg33.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg34.jpg "Figure 1-1")
+![Figure 1-1](images/figg34.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include owner, track, source and duration
@@ -272,21 +272,21 @@ This dashlet has options to print and download. Download options include downloa
 ##### **Calendar Dashlets:**
 Calendar dashlets show information about events and tasks. Calendar dashlets include events, tasks, task report, mini calendar and task completion time deviation.
 
-![Figure 1-1](Desktop/images/figg35.jpg "Figure 1-1")
+![Figure 1-1](images/figg35.jpg "Figure 1-1")
 
 ##### **Events:**
 Events dashlet shows a quick view of events from user’s calendar. Events dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
 Events dashlet shows the events and their details for the selected time duration.
 
-![Figure 1-1](Desktop/images/figg36.jpg "Figure 1-1")
+![Figure 1-1](images/figg36.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Events” dashlet under Calendar category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg37.jpg "Figure 1-1")
+![Figure 1-1](images/figg37.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include duration
@@ -299,14 +299,14 @@ Tasks dashlet shows a list of upcoming or due tasks. Tasks dashlet can be added 
 
 Tasks dashlet shows the tasks and their details for the selected time duration.
 
-![Figure 1-1](Desktop/images/figg38.jpg "Figure 1-1")
+![Figure 1-1](images/figg38.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Tasks” dashlet under Calendar category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg39.jpg "Figure 1-1")
+![Figure 1-1](images/figg39.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include duration
@@ -321,20 +321,20 @@ Task reports shows the information on number of tasks split by task category for
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](Desktop/images/figg40.jpg "Figure 1-1")
+![Figure 1-1](images/figg40.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Task Report” dashlet under Calendar category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg41.jpg "Figure 1-1")
+![Figure 1-1](images/figg41.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg42.jpg "Figure 1-1")
+![Figure 1-1](images/figg42.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg43.jpg "Figure 1-1")
+![Figure 1-1](images/figg43.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg44.jpg "Figure 1-1")
+![Figure 1-1](images/figg44.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Settings include report by, tasks, split by, duration and user
@@ -349,7 +349,7 @@ This dashlet has options to print and download. Download options include downloa
 ##### **Mini Calendar:**
 Mini Calendar dashlet shows an overview of user’s agenda for the day. Mini Calendar dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
-![Figure 1-1](Desktop/images/figg45.jpg "Figure 1-1")
+![Figure 1-1](images/figg45.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
@@ -363,14 +363,14 @@ Tasks completion time deviation dashlet shows the information of number of tasks
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](Desktop/images/figg46.jpg "Figure 1-1")
+![Figure 1-1](images/figg46.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Tasks Completion Time Deviation” dashlet under Calendar category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg47.jpg "Figure 1-1")
+![Figure 1-1](images/figg47.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Setting include duration
@@ -380,21 +380,21 @@ This dashlet has options to print and download. Download options include downloa
  ##### **Activity Dashlets:**
 Activity dashlets show information about activities performed by users. Activity dashlets include activity overview, leaderboard, calls, user activities and campaign stats.
 
-![Figure 1-1](Desktop/images/figg48.jpg "Figure 1-1")
+![Figure 1-1](images/figg48.jpg "Figure 1-1")
 
  ##### **Activity Overview:**
 Activity Overview dashlet shows detailed list of activities done by the team members. Activity Overview dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
 Activity overview dashlet shows information like number of new contacts, value and number of deals won, number of campaign emails sent and value and number of new deals. All the information is shown for the selected time duration.
 
-![Figure 1-1](Desktop/images/figg49.jpg "Figure 1-1")
+![Figure 1-1](images/figg49.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Activity Overview” dashlet under Activity category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg50.jpg "Figure 1-1")
+![Figure 1-1](images/figg50.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Setting include duration
@@ -407,14 +407,14 @@ Leaderboard dashlet shows leaderboard for the team based on revenue won, tasks d
 
 Leaderboard shows the revenue generated, deals won, calls done and tasks done by the selected users. Leaderboard can be used to show the ranking of users against others. All the information is shown for the selected time duration.
 
-![Figure 1-1](Desktop/images/figg51.jpg "Figure 1-1")
+![Figure 1-1](images/figg51.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Leaderboard” dashlet under Activity category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg52.jpg "Figure 1-1")
+![Figure 1-1](images/figg52.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Setting include board, user and duration
@@ -431,16 +431,16 @@ Calls dashlet shows information on number of calls answered, number of calls rep
 
 This dashlet has options to print and download. Download options include download as PNG, JPEG, SVG Vector, PDF, CSV, XLS.
 
-![Figure 1-1](Desktop/images/figg53.jpg "Figure 1-1")
+![Figure 1-1](images/figg53.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Calls” dashlet under Activity category
 3. Select the pages where the dashlet needs to be shown.
 
-![Figure 1-1](Desktop/images/figg54.jpg "Figure 1-1")
+![Figure 1-1](images/figg54.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg55.jpg "Figure 1-1")
+![Figure 1-1](images/figg55.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Setting include duration, graph on and user
@@ -453,7 +453,7 @@ This dashlet has options to print and download. Download options include downloa
 ##### **User Activities:**
 User Activities dashlet shows a timeline of user actions in Agile CRM. User Activities dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
-![Figure 1-1](Desktop/images/figg56.jpg "Figure 1-1")
+![Figure 1-1](images/figg56.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
@@ -465,16 +465,16 @@ Campaign Stats dashlet shows how campaigns are performing with stats on email op
 
 Campaign stats dashlet shows information on number of emails sent, number of emails opened, number of links clicked, number of users unsubscribed. All the information is shown for the selected time duration.
 
-![Figure 1-1](Desktop/images/figg57.jpg "Figure 1-1")
+![Figure 1-1](images/figg57.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
 2. Select and Add “Campaign Stats” dashlet under Activity category
 3. Select the pages where the dashlet needs to be shown
 
-![Figure 1-1](Desktop/images/figg58.jpg "Figure 1-1")
+![Figure 1-1](images/figg58.jpg "Figure 1-1")
 
-![Figure 1-1](Desktop/images/figg59.jpg "Figure 1-1")
+![Figure 1-1](images/figg59.jpg "Figure 1-1")
 
 ###### **Settings:**
 1. Setting include duration and campaign type
@@ -486,12 +486,12 @@ Campaign stats dashlet shows information on number of emails sent, number of ema
 ##### **RSS Feed Dashlets:**
 RSS feed dashlets show information from various feed providers like Agile CRM blog. RSS feed dashlets include Agile CRM Blog.
 
-![Figure 1-1](Desktop/images/figg60.jpg "Figure 1-1")
+![Figure 1-1](images/figg60.jpg "Figure 1-1")
 
 ##### **Agile CRM Blog:**
 Agile CRM Blog dashlet shows a feed of what’s happening at Agile CRM’s end including updates on new features. Agile CRM Blog dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
-![Figure 1-1](Desktop/images/figg61.jpg "Figure 1-1")
+![Figure 1-1](images/figg61.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
@@ -501,14 +501,14 @@ Agile CRM Blog dashlet shows a feed of what’s happening at Agile CRM’s end i
 ##### **Account Info Dashlets:**
 Account Info dashlets show information about user’s account. Account Info dashlets include Account Details.
 
-![Figure 1-1](Desktop/images/figg62.jpg "Figure 1-1")
+![Figure 1-1](images/figg62.jpg "Figure 1-1")
 
 ##### **Account Details:**
 Account Details dashlet shows current plan information, number of users and more. Account Details dashlet can be added to user dashboards or other pages like contacts, deals and so on.
 
 Account details dashlet shows information on plan (Free, Starter, Regular or Enterprise) along with number of users. It also shows account representative details along with option to schedule a call.
 
-![Figure 1-1](Desktop/images/figg63.jpg "Figure 1-1")
+![Figure 1-1](images/figg63.jpg "Figure 1-1")
 
 ###### **Setup:**
 1. Click on “Add Dashlet” button
